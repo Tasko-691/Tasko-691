@@ -71,3 +71,4 @@
 
 ![Statistiques de Tasko](https://github-readme-stats.vercel.app/api?username=Tasko-691&show_icons=true&theme=shadow_red&include_all_commits=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tasko-691&theme=shadow_red&include_all_commits=true)
+![Graphique Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tasko-691&theme=monokai)
