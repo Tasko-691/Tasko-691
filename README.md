@@ -9,13 +9,16 @@
 ## 💻 Configuration PC
 
 > Utilisateur passionné d'Arch Linux, j'optimise chaque aspect de mon environnement pour une expérience personnalisée et performante avec ma distribution **ArchTSK**.
-- **OS** : Arch Linux (**ArchTSK**)
-- **Host** : Z590 GAMING X
-- **Processeur** : 11th Gen Intel i9-11900K (16) @ 5.100GHz
-- **Carte Graphique** : NVIDIA GeForce RTX 3050
-- **RAM** : 32 Go DDR4
-- **Stockage** : Crucial P3 Plus 4To CT4000P3PSSD801
- 
+
+| **Composant** | **Détail** |
+|---------------|------------|
+| **OS**        | Arch Linux (**ArchTSK**) |
+| **Carte Mère**| Z590 GAMING X |
+| **CPU**       | 11th Gen Intel i9-11900K (16) @ 5.100GHz |
+| **GPU**       | NVIDIA GeForce RTX 3050 |
+| **RAM**       | 32 Go DDR4 |
+| **Stockage**  | Crucial P3 Plus 4To CT4000P3PSSD801 |
+
 ## 🛠️ Compétences Techniques
 
 > Les langages présents dans ce tableau représentent ceux pour lesquels j'ai atteint un niveau de maîtrise spécifique et quantifiable. Les badges, quant à eux, illustrent des langages qui m'intéressent et que je pratique, sans toutefois atteindre un seuil de compétence avancée.
