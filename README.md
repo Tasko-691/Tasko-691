@@ -3,7 +3,10 @@
 </h1>
 
 ## 📝 À Propos de Moi
+
+```markdown
 > Le système parfait est celui qu'on façonne soi-même.
+```
 
 - Passionné par l'informatique, avec un fort intérêt pour les systèmes, les réseaux, et la programmation bas niveau.
 ## 💻 Configuration PC
