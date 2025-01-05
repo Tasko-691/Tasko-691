@@ -30,13 +30,16 @@
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=probot&logoColor=white)
+![Rust Badge](https://img.shields.io/badge/Rust-DEA584?style=for-the-badge&logo=rust&logoColor=white)
+
 
 | 🖥️ Programmation |          Niveau          |   /   | ⚙️ Systèmes d'exploitation |    Niveau     |
 | :-------------: | :----------------------: | :---: | :-----------------------: | :-----------: |
 |   **Python**    |      Intermédiaire       |   /   |        **Windows**        | Intermédiaire |
-|    **Java**     | Débutant / Intermédiaire |   /   |         **Linux**         |    Avancé     |
-|      **C**      |         Débutant         |   /   |         **MacOS**         |   Débutant    |
+|    **Java**     |         Débutant         |   /   |         **Linux**         |    Avancé     |
+|      **C**      |         Débutant         |   /   |          **MacOS**        |   Débutant    |
 |     **Go**      |         Débutant         |   /   |        **Android**        | Intermédiaire |
+|    **Rust**     |         Débutant         |   /   |             /             |       /       |
 
 ## 🚀 Projets Actuels
 
