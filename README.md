@@ -2,77 +2,102 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Tasko" alt="Typing SVG" /></a>
 </h1>
 
-## 📝 À Propos de Moi
+# Profil Technique Public - Tasko (TSK)
+
+
+## 📝 À propos
 
 ```markdown
 > Le système parfait est celui qu'on façonne soi-même.
 ```
+> Le ton technique et direct ne reflète pas une posture distante, mais une recherche constante de clarté, d’exactitude et d’exhaustivité. Ce souci de précision découle d'une volonté de limiter toute ambiguïté : là où une formulation vague pourrait laisser place à plusieurs interprétations, l’objectif est ici d’anticiper chaque angle de lecture pour offrir un contenu structuré, explicite et maîtrisé.
 
-- Passionné par l'informatique, avec un fort intérêt pour les systèmes, les réseaux, et la programmation bas niveau.
-## 💻 Configuration PC
+Profil orienté vers l’étude, la compréhension et l’optimisation des environnements techniques, en particulier les systèmes Linux, les réseaux, la programmation bas niveau et les mécanismes de sécurité appliquée. 
 
-> Utilisateur passionné d'Arch Linux, j'optimise chaque aspect de mon environnement pour une expérience personnalisée et performante avec ma distribution **ArchTSK**.
+La démarche repose sur une progression continue, une documentation systématique et une approche rigoureuse des outils et méthodes utilisés.
 
-| **Composant** | **Détail** |
-|---------------|------------|
-| **OS**        | Arch Linux (**ArchTSK**) |
-| **Carte Mère**| Z590 GAMING X |
-| **CPU**       | 11th Gen Intel i9-11900K (16) @ 5.100GHz |
-| **GPU**       | NVIDIA GeForce RTX 3050 |
-| **RAM**       | 32 Go DDR4 |
-| **Stockage**  | Crucial P3 Plus 4To CT4000P3PSSD801 |
+## Configuration matérielle et logicielle
 
-## 🛠️ Compétences Techniques
+> **ArchTSK** ne constitue pas une distribution indépendante, mais une instance personnalisée d’Arch Linux, structurée pour répondre aux exigences spécifiques de mon environnement matériel et logiciel personnel. Elle repose sur une logique d’optimisation ciblée, de maîtrise complète des composants, et de cohérence fonctionnelle, exclusivement destinée à un usage personnel, sans objectif de diffusion ni de standardisation.
 
-> Les langages présents dans ce tableau représentent ceux pour lesquels j'ai atteint un niveau de maîtrise spécifique et quantifiable. Les badges, quant à eux, illustrent des langages qui m'intéressent et que je pratique, sans toutefois atteindre un seuil de compétence avancée.
----
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+### Composants logiciels
+
+| Composant              | Description                              |
+|------------------------|------------------------------------------|
+| Système d'exploitation | Arch Linux (ArchTSK)                     |
+| Shell                  | Zsh                                      |
+| Terminal               | WezTerm                                  |
+| Environnement graphique| KDE Plasma (Wayland)                     |
+| Éditeurs               | Kate, Vim, Neovim, VSCodium              |
+
+### Composants matériels
+
+| Composant        | Détail                                     |
+|------------------|--------------------------------------------|
+| Carte mère       | Gigabyte Z590 GAMING X                     |
+| Processeur       | Intel Core i9-11900K (16 threads) @ 5.1 GHz|
+| Mémoire vive     | 32 Go DDR4                                 |
+| Carte graphique  | NVIDIA GeForce RTX 3050                    |
+| Stockage         | Crucial P3 Plus 4To (CT4000P3PSSD801)      |
+
+
+## Méthodologie technique
+
+L'approche commence souvent par la documentation, posée comme fondement avant même la conception. Chaque projet suit une logique progressive, en partant d'une base existante pour évoluer bloc par bloc vers une solution entièrement adaptée.
+
+- La documentation est considérée comme essentielle à chaque étape : elle structure la réflexion, accompagne la mise en œuvre, et facilite l'amélioration continue.
+
+- La préférence va à des solutions reconstruites sur mesure plutôt qu’à la modification d'existants partiellement adaptés, afin de garantir cohérence, justesse et maîtrise complète.
+
+- La sélection d’outils ou de méthodes repose sur trois critères : sécurité, performance, et possibilité d’en documenter précisément l’usage. En cas d’erreur ou d’imprévu, une phase d’analyse approfondie est systématiquement engagée pour comprendre l’origine, l’impact, les mécanismes internes et les correctifs envisageables.
+
+- Un système n’est jamais considéré comme terminé, mais comme stabilisé à un instant donné, dans une logique d'amélioration continue.
+
+- La stabilité prime, même sur les fonctionnalités, tant que la documentation n’est pas claire ou que les impacts d’un changement ne sont pas maîtrisés.
+
+
+## Pourquoi Arch Linux ?
+
+Arch a été retenue pour sa clarté structurelle, sa cohérence technique et son approche minimaliste. Chaque composant remplit une fonction précise, sans surcouches ni abstractions inutiles.
+
+Sa transparence favorise l’apprentissage, l’ajustement et la documentation précise. Pacman renforce cette logique avec une gestion stricte et cohérente des paquets.
+
+L’ensemble forme un socle stable, modulaire et maîtrisable, où chaque choix reste visible, justifiable et reproductible.
+
+## Langages utilisés
+
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Rust](https://img.shields.io/badge/Rust-DEA584?style=for-the-badge&logo=rust&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=probot&logoColor=white)
-![Rust Badge](https://img.shields.io/badge/Rust-DEA584?style=for-the-badge&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+>- **Go** : Langage brièvement utilisé sans apprentissage formel, mais fortement apprécié pour sa portabilité, sa simplicité de déploiement et son modèle de concurrence intégré. Présente un fort potentiel pour des projets futurs nécessitant des exécutables multiplateformes efficaces et faciles à distribuer.
 
-| 🖥️ Programmation |          Niveau          |   /   | ⚙️ Systèmes d'exploitation |    Niveau     |
-| :-------------: | :----------------------: | :---: | :-----------------------: | :-----------: |
-|   **Python**    |      Intermédiaire       |   /   |        **Windows**        | Intermédiaire |
-|    **Java**     |         Débutant         |   /   |         **Linux**         |    Avancé     |
-|      **C**      |         Débutant         |   /   |          **MacOS**        |   Débutant    |
-|     **Go**      |         Débutant         |   /   |        **Android**        | Intermédiaire |
-|    **Rust**     |         Débutant         |   /   |             /             |       /       |
+>- **Rust** : En apprentissage continu, apprécié pour sa sécurité intrinsèque, son efficacité en bas niveau, et sa capacité à remplacer avantageusement le C. Fort attrait pour sa philosophie, sa syntaxe claire et sa vision technique globale. Objectif de maîtrise complète afin de l'adopter systématiquement comme langage principal dans les futurs développements.
 
-## 🚀 Projets Actuels
+>- **C** : Bases initiales acquises, rapidement délaissé au profit de Rust, jugé plus pertinent en matière de sécurité et d'ergonomie technique.
 
-- **GPG Manage (GPGM)** : Un gestionnaire de clés GPG pour simplifier la synchronisation et le déploiement en masse sur plusieurs serveurs de clés. Actuellement en développement, ce projet vise à centraliser la gestion des clés pour les utilisateurs Linux. Toutes les contributions sont les bienvenues !
-  - [**Dépôt GitHub**](https://github.com/Tasko-691/GPGM)
+>- **Bash** : Utilisation avancée et régulière, avec intérêt particulier pour l'élaboration de structures logiques complexes, conditionnelles élaborées et fonctions utiles à l'automatisation. Fascination marquée pour les possibilités logiques et syntaxiques qu'offre le langage.
 
-## 💡 Intérêts et Apprentissage
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Shell Scripting](https://img.shields.io/badge/Shell_Scripting-5391FE?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Cryptographie](https://img.shields.io/badge/Cryptographie-FF6F00?style=for-the-badge&logo=gnupg&logoColor=white)
-
-> **Shell et Systèmes** : Je suis passionné par l'exploration des différents niveaux d'intervention dans le système Linux, approfondissant constamment ma compréhension de son fonctionnement interne.
-
-> **Sécurité des Systèmes et Cloisonnement** : Je suis passionné par l'analyse du déploiement et de la prolifération des menaces numériques, et je m'intéresse particulièrement aux méthodes de compartimentation et de régulation des systèmes pour optimiser leur résilience et minimiser les vulnérabilités.
-
-> **Cryptographie et Protocoles Sécurisés** : Passionné par le contrôle et la régulation des informations via des protocoles stricts, j'explore les mécanismes cryptographiques avancés pour garantir l'intégrité et la confidentialité des données.
+>- **Python** : Connaissances basiques acquises, apprécié pour sa polyvalence technique, le prototypage rapide et la gestion efficace des environnements virtuels (venv). Utilisé ponctuellement, notamment pour expérimenter ou valider des concepts avant développement dans un langage plus strict, ou pour des tâches simples ne nécessitant pas de rigueur particulière en matière de sécurité ou de maintenance. Préférence marquée pour Rust lorsque la rigueur technique ou la structuration sont essentielles, et pour Bash lorsqu'il s'agit d'interagir avec le système, manipuler des fichiers ou créer des automatisations natives sous Linux.
 
 ## 🌐 Contact
 
-> Merci d'avoir visité mon profil ! N'hésitez pas à explorer mes projets et à me contacter sur Discord pour toute question, suggestion ou conseil. Je suis toujours ouvert aux retours constructifs pour progresser davantage.
-- **Email** : [tasko691@disroot.org](mailto:tasko691@disroot.org)
-- **Discord** : tasko_691
+> Je suis ouvert aux échanges, aux conseils comme aux critiques constructives, avec une volonté affirmée d’apprendre et d’évoluer
+
+Merci pour l'exploration de ce profil technique. Pour toute question, suggestion ou retour constructif, n'hésitez pas à me contacter directement.
+
+
+- GitHub : [Tasko-691](https://github.com/Tasko-691)
+- Email : [tasko691@disroot.org](mailto:tasko691@disroot.org)
+- Discord : tasko_691
 
 ## 📊 Statistiques GitHub
 
 ![Statistiques de Tasko](https://github-readme-stats.vercel.app/api?username=Tasko-691&show_icons=true&theme=shadow_red&include_all_commits=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tasko-691&theme=shadow_red&include_all_commits=true)
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=Tasko-691&layout=compact&theme=shadow_red)
-![Graphique Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tasko-691&theme=monokai)
+
+---
+
+> Ce document se limite exclusivement aux aspects techniques, excluant délibérément de nombreux domaines et compétences. Cette restriction vise à offrir une vue claire et objective sur la progression technique, l’efficacité opérationnelle et les applications concrètes.
