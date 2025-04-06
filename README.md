@@ -27,7 +27,7 @@ La démarche repose sur une progression continue, une documentation systématiqu
 | Système d'exploitation | Arch Linux (ArchTSK)                     |
 | Shell                  | Zsh                                      |
 | Terminal               | WezTerm                                  |
-| Environnement graphique| KDE Plasma (Wayland)                     |
+| Environnement graphique| KDE Plasma (X11)                         |
 | Éditeurs               | Kate, Vim, Neovim, VSCodium              |
 
 ### Composants matériels
