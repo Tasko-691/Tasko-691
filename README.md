@@ -71,6 +71,7 @@ L’ensemble forme un socle stable, modulaire et maîtrisable, où chaque choix 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Prolog](https://img.shields.io/badge/Prolog-D90429?style=for-the-badge&logoColor=white)
 
 >- **Go** : Langage brièvement utilisé sans apprentissage formel, mais fortement apprécié pour sa portabilité, sa simplicité de déploiement et son modèle de concurrence intégré. Présente un fort potentiel pour des projets futurs nécessitant des exécutables multiplateformes efficaces et faciles à distribuer.
 
@@ -81,6 +82,8 @@ L’ensemble forme un socle stable, modulaire et maîtrisable, où chaque choix 
 >- **Bash** : Utilisation avancée et régulière, avec intérêt particulier pour l'élaboration de structures logiques complexes, conditionnelles élaborées et fonctions utiles à l'automatisation. Fascination marquée pour les possibilités logiques et syntaxiques qu'offre le langage.
 
 >- **Python** : Connaissances basiques acquises, apprécié pour sa polyvalence technique, le prototypage rapide et la gestion efficace des environnements virtuels (venv). Utilisé ponctuellement, notamment pour expérimenter ou valider des concepts avant développement dans un langage plus strict, ou pour des tâches simples ne nécessitant pas de rigueur particulière en matière de sécurité ou de maintenance. Préférence marquée pour Rust lorsque la rigueur technique ou la structuration sont essentielles, et pour Bash lorsqu'il s'agit d'interagir avec le système, manipuler des fichiers ou créer des automatisations natives sous Linux.
+
+>- **Prolog** : En apprentissage actif, apprécié pour son paradigme logique déclaratif et sa méthodologie structurée fondée sur la définition explicite de règles logiques. Intérêt axé sur la conception de structures logiques capables d’anticiper, raisonner et réagir de manière dynamique à des situations techniques complexes, à partir d’ensembles de faits, de contraintes et de variables évolutives.
 
 ## 🌐 Contact
 
