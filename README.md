@@ -25,6 +25,7 @@ La démarche repose sur une progression continue, une documentation systématiqu
 | Composant              | Description                              |
 |------------------------|------------------------------------------|
 | Système d'exploitation | Arch Linux (ArchTSK)                     |
+| Noyau                  | Linux Zen                                |
 | Shell                  | Zsh                                      |
 | Terminal               | WezTerm                                  |
 | Environnement graphique| KDE Plasma (X11)                         |
