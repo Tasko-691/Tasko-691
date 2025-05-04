@@ -4,7 +4,6 @@
 
 # Profil Technique Public - Tasko (TSK)
 
-
 ## 📝 À propos
 
 ```markdown
@@ -15,6 +14,38 @@
 Profil orienté vers l’étude, la compréhension et l’optimisation des environnements techniques, en particulier les systèmes Linux, les réseaux, la programmation bas niveau et les mécanismes de sécurité appliquée. 
 
 La démarche repose sur une progression continue, une documentation systématique et une approche rigoureuse des outils et méthodes utilisés.
+
+## Vision technique personnelle
+
+Ma démarche vise à privilégier des outils minimalistes, robustes et explicitement documentés. Je privilégie systématiquement l'autonomie, la transparence technique et le contrôle précis des systèmes. Chaque choix technologique répond à une logique : soit résoudre efficacement un problème précis, soit me permettre d'approfondir ma compréhension technique. Cette approche garantit que mes outils restent légers, performants et fiables dans le temps.
+
+## Approche d'apprentissage et transversalité technique
+
+> **Je ne sais pas toujours faire, mais je sais comment apprendre à faire.**
+
+Mon approche repose sur une exploration étendue de domaines techniques variés, sans spécialisation rigide, mais avec une logique méthodique de compréhension fondée sur les principes, les structures et les mécanismes internes.
+
+Je dispose de connaissances larges, souvent à un niveau initial d’abstraction, mais suffisamment solides pour identifier les logiques fondamentales, comparer les architectures, et comprendre les dynamiques systémiques propres à chaque environnement. Cette transversalité me permet de relier les concepts entre eux et d’aborder des problématiques diverses avec une cohérence globale.
+
+La majorité de ces explorations naît d'une curiosité technique constante, qui me pousse à investiguer un sujet, à en dégager des sous-ensembles, puis à approfondir progressivement les ramifications logiques qui en découlent. Cette dynamique entraîne une expansion structurée de mes connaissances, en suivant les connexions fonctionnelles entre domaines.
+
+Je ne cherche pas à tout maîtriser immédiatement. En revanche, je suis capable d’apprendre rapidement et d’organiser l’information de manière structurée pour l’intégrer efficacement. Ma force réside dans une capacité d’adaptation technique fondée sur l’analyse, la déduction logique et la rigueur méthodologique. Je sais comment apprendre à faire : quoi chercher, où, dans quel ordre, et avec quels outils.
+
+Cette dynamique rend ma progression non linéaire mais fortement réactive, orientée vers la compréhension, la consolidation et la maîtrise progressive des systèmes étudiés.
+
+## Méthodologie technique
+
+L'approche commence souvent par la documentation, posée comme fondement avant même la conception. Chaque projet suit une logique progressive, en partant d'une base existante pour évoluer bloc par bloc vers une solution entièrement adaptée.
+
+- La documentation est considérée comme essentielle à chaque étape : elle structure la réflexion, accompagne la mise en œuvre, et facilite l'amélioration continue.
+
+- La préférence va à des solutions reconstruites sur mesure plutôt qu’à la modification d'existants partiellement adaptés, afin de garantir cohérence, justesse et maîtrise complète.
+
+- La sélection d’outils ou de méthodes repose sur trois critères : sécurité, performance, et possibilité d’en documenter précisément l’usage. En cas d’erreur ou d’imprévu, une phase d’analyse approfondie est systématiquement engagée pour comprendre l’origine, l’impact, les mécanismes internes et les correctifs envisageables.
+
+- Un système n’est jamais considéré comme terminé, mais comme stabilisé à un instant donné, dans une logique d'amélioration continue.
+
+- La stabilité prime, même sur les fonctionnalités, tant que la documentation n’est pas claire ou que les impacts d’un changement ne sont pas maîtrisés.
 
 ## Configuration matérielle et logicielle
 
@@ -40,39 +71,6 @@ La démarche repose sur une progression continue, une documentation systématiqu
 | Mémoire vive     | 32 Go DDR4                                 |
 | Carte graphique  | NVIDIA GeForce RTX 3050                    |
 | Stockage         | Crucial P3 Plus 4To (CT4000P3PSSD801)      |
-
-
-## Méthodologie technique
-
-L'approche commence souvent par la documentation, posée comme fondement avant même la conception. Chaque projet suit une logique progressive, en partant d'une base existante pour évoluer bloc par bloc vers une solution entièrement adaptée.
-
-- La documentation est considérée comme essentielle à chaque étape : elle structure la réflexion, accompagne la mise en œuvre, et facilite l'amélioration continue.
-
-- La préférence va à des solutions reconstruites sur mesure plutôt qu’à la modification d'existants partiellement adaptés, afin de garantir cohérence, justesse et maîtrise complète.
-
-- La sélection d’outils ou de méthodes repose sur trois critères : sécurité, performance, et possibilité d’en documenter précisément l’usage. En cas d’erreur ou d’imprévu, une phase d’analyse approfondie est systématiquement engagée pour comprendre l’origine, l’impact, les mécanismes internes et les correctifs envisageables.
-
-- Un système n’est jamais considéré comme terminé, mais comme stabilisé à un instant donné, dans une logique d'amélioration continue.
-
-- La stabilité prime, même sur les fonctionnalités, tant que la documentation n’est pas claire ou que les impacts d’un changement ne sont pas maîtrisés.
-
-## Approche d'apprentissage et transversalité technique
-
-> **Je ne sais pas toujours faire, mais je sais comment apprendre à faire.**
-
-Mon approche repose sur une exploration étendue de domaines techniques variés, sans spécialisation rigide, mais avec une logique méthodique de compréhension fondée sur les principes, les structures et les mécanismes internes.
-
-Je dispose de connaissances larges, souvent à un niveau initial d’abstraction, mais suffisamment solides pour identifier les logiques fondamentales, comparer les architectures, et comprendre les dynamiques systémiques propres à chaque environnement. Cette transversalité me permet de relier les concepts entre eux et d’aborder des problématiques diverses avec une cohérence globale.
-
-La majorité de ces explorations naît d'une curiosité technique constante, qui me pousse à investiguer un sujet, à en dégager des sous-ensembles, puis à approfondir progressivement les ramifications logiques qui en découlent. Cette dynamique entraîne une expansion structurée de mes connaissances, en suivant les connexions fonctionnelles entre domaines.
-
-Je ne cherche pas à tout maîtriser immédiatement. En revanche, je suis capable d’apprendre rapidement et d’organiser l’information de manière structurée pour l’intégrer efficacement. Ma force réside dans une capacité d’adaptation technique fondée sur l’analyse, la déduction logique et la rigueur méthodologique. Je sais comment apprendre à faire : quoi chercher, où, dans quel ordre, et avec quels outils.
-
-Cette dynamique rend ma progression non linéaire mais fortement réactive, orientée vers la compréhension, la consolidation et la maîtrise progressive des systèmes étudiés.
-
-## Vision technique personnelle
-
-Ma démarche vise à privilégier des outils minimalistes, robustes et explicitement documentés. Je privilégie systématiquement l'autonomie, la transparence technique et le contrôle précis des systèmes. Chaque choix technologique répond à une logique : soit résoudre efficacement un problème précis, soit me permettre d'approfondir ma compréhension technique. Cette approche garantit que mes outils restent légers, performants et fiables dans le temps.
 
 ## Pourquoi Arch Linux ?
 
@@ -109,21 +107,20 @@ Je suis fermement attaché aux valeurs véhiculées par l'open-source : transpar
 
 Dans ma démarche d'amélioration continue et d'apprentissage, mon objectif est d'acquérir une expertise technique suffisamment solide pour contribuer activement à la communauté open-source. À terme, je souhaite participer à des projets existants ou en créer de nouveaux, non dans une logique quantitative, mais afin d'y intégrer ma vision stricte et explicite en matière de sécurité, de contrôle rigoureux et de gestion fiable des systèmes. Cet engagement répond directement à une volonté concrète : fournir des solutions techniques pertinentes, robustes et durables, répondant objectivement à des besoins réels dans l'intérêt général.
 
+## 📊 Statistiques GitHub
+
+![Statistiques de Tasko](https://github-readme-stats.vercel.app/api?username=Tasko-691&show_icons=true&theme=shadow_red&include_all_commits=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tasko-691&theme=shadow_red&include_all_commits=true)
+
 ## 🌐 Contact
 
 > Je suis ouvert aux échanges, aux conseils comme aux critiques constructives, avec une volonté affirmée d’apprendre et d’évoluer
 
 Merci pour l'exploration de ce profil technique. Pour toute question, suggestion ou retour constructif, n'hésitez pas à me contacter directement.
 
-
 - GitHub : [Tasko-691](https://github.com/Tasko-691)
 - Email : [tasko691@disroot.org](mailto:tasko691@disroot.org)
 - Discord : tasko_691
-
-## 📊 Statistiques GitHub
-
-![Statistiques de Tasko](https://github-readme-stats.vercel.app/api?username=Tasko-691&show_icons=true&theme=shadow_red&include_all_commits=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tasko-691&theme=shadow_red&include_all_commits=true)
 
 ---
 
