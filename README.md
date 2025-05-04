@@ -56,6 +56,9 @@ L'approche commence souvent par la documentation, posée comme fondement avant m
 
 - La stabilité prime, même sur les fonctionnalités, tant que la documentation n’est pas claire ou que les impacts d’un changement ne sont pas maîtrisés.
 
+## Vision technique personnelle
+
+Ma démarche vise à privilégier des outils minimalistes, robustes et explicitement documentés. Je privilégie systématiquement l'autonomie, la transparence technique et le contrôle précis des systèmes. Chaque choix technologique répond à une logique : soit résoudre efficacement un problème précis, soit me permettre d'approfondir ma compréhension technique. Cette approche garantit que mes outils restent légers, performants et fiables dans le temps.
 
 ## Pourquoi Arch Linux ?
 
