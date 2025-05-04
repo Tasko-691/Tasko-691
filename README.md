@@ -89,6 +89,12 @@ L’ensemble forme un socle stable, modulaire et maîtrisable, où chaque choix 
 
 >- **Prolog** : En apprentissage actif, apprécié pour son paradigme logique déclaratif et sa méthodologie structurée fondée sur la définition explicite de règles logiques. Intérêt axé sur la conception de structures logiques capables d’anticiper, raisonner et réagir de manière dynamique à des situations techniques complexes, à partir d’ensembles de faits, de contraintes et de variables évolutives.
 
+## Philosophie open-source
+
+Je suis fermement attaché aux valeurs véhiculées par l'open-source : transparence, contrôle technique total, robustesse et collaboration ouverte. Je rejette explicitement les systèmes propriétaires opaques et peu fiables, privilégiant systématiquement des solutions ouvertes et vérifiables.
+
+Dans ma démarche d'amélioration continue et d'apprentissage, mon objectif est d'acquérir une expertise technique suffisamment solide pour contribuer activement à la communauté open-source. À terme, je souhaite participer à des projets existants ou en créer de nouveaux, non dans une logique quantitative, mais afin d'y intégrer ma vision stricte et explicite en matière de sécurité, de contrôle rigoureux et de gestion fiable des systèmes. Cet engagement répond directement à une volonté concrète : fournir des solutions techniques pertinentes, robustes et durables, répondant objectivement à des besoins réels dans l'intérêt général.
+
 ## 🌐 Contact
 
 > Je suis ouvert aux échanges, aux conseils comme aux critiques constructives, avec une volonté affirmée d’apprendre et d’évoluer
