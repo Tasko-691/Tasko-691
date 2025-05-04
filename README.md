@@ -56,6 +56,20 @@ L'approche commence souvent par la documentation, posée comme fondement avant m
 
 - La stabilité prime, même sur les fonctionnalités, tant que la documentation n’est pas claire ou que les impacts d’un changement ne sont pas maîtrisés.
 
+## Approche d'apprentissage et transversalité technique
+
+> **Je ne sais pas toujours faire, mais je sais comment apprendre à faire.**
+
+Mon approche repose sur une exploration étendue de domaines techniques variés, sans spécialisation rigide, mais avec une logique méthodique de compréhension fondée sur les principes, les structures et les mécanismes internes.
+
+Je dispose de connaissances larges, souvent à un niveau initial d’abstraction, mais suffisamment solides pour identifier les logiques fondamentales, comparer les architectures, et comprendre les dynamiques systémiques propres à chaque environnement. Cette transversalité me permet de relier les concepts entre eux et d’aborder des problématiques diverses avec une cohérence globale.
+
+La majorité de ces explorations naît d'une curiosité technique constante, qui me pousse à investiguer un sujet, à en dégager des sous-ensembles, puis à approfondir progressivement les ramifications logiques qui en découlent. Cette dynamique entraîne une expansion structurée de mes connaissances, en suivant les connexions fonctionnelles entre domaines.
+
+Je ne cherche pas à tout maîtriser immédiatement. En revanche, je suis capable d’apprendre rapidement et d’organiser l’information de manière structurée pour l’intégrer efficacement. Ma force réside dans une capacité d’adaptation technique fondée sur l’analyse, la déduction logique et la rigueur méthodologique. Je sais comment apprendre à faire : quoi chercher, où, dans quel ordre, et avec quels outils.
+
+Cette dynamique rend ma progression non linéaire mais fortement réactive, orientée vers la compréhension, la consolidation et la maîtrise progressive des systèmes étudiés.
+
 ## Vision technique personnelle
 
 Ma démarche vise à privilégier des outils minimalistes, robustes et explicitement documentés. Je privilégie systématiquement l'autonomie, la transparence technique et le contrôle précis des systèmes. Chaque choix technologique répond à une logique : soit résoudre efficacement un problème précis, soit me permettre d'approfondir ma compréhension technique. Cette approche garantit que mes outils restent légers, performants et fiables dans le temps.
