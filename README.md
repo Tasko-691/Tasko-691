@@ -15,6 +15,7 @@
 - [Pourquoi Arch Linux](#pourquoi-arch-linux)
 - [Langages utilisés](#langages-utilisés)
 - [Philosophie open-source](#philosophie-open-source)
+- [Explorations et curiosités techniques personnelles](#explorations-et-curiosités-techniques-personnelles)
 - [Statistiques GitHub](#statistiques-github)
 - [Authentification et signature cryptographiques / identité numérique](#authentification-et-signature-cryptographiques--identité-numérique)
   - [Clé PGP principale](#clé-pgp-principale)
@@ -122,6 +123,10 @@ L’ensemble forme un socle stable, modulaire et maîtrisable, où chaque choix 
 Je suis fermement attaché aux valeurs véhiculées par l'open-source : transparence, contrôle technique total, robustesse et collaboration ouverte. Je rejette explicitement les systèmes propriétaires opaques et peu fiables, privilégiant systématiquement des solutions ouvertes et vérifiables.
 
 Dans ma démarche d'amélioration continue et d'apprentissage, mon objectif est d'acquérir une expertise technique suffisamment solide pour contribuer activement à la communauté open-source. À terme, je souhaite participer à des projets existants ou en créer de nouveaux, non dans une logique quantitative, mais afin d'y intégrer ma vision stricte et explicite en matière de sécurité, de contrôle rigoureux et de gestion fiable des systèmes. Cet engagement répond directement à une volonté concrète : fournir des solutions techniques pertinentes, robustes et durables, répondant objectivement à des besoins réels dans l'intérêt général.
+
+## Explorations et curiosités techniques personnelles
+
+>**Cette section regroupe des domaines explorés par curiosité et intérêt personnel, sans prétention de maîtrise, avec un attrait marqué pour leur fonctionnement et leurs mécanismes internes.**
 
 ## Statistiques GitHub
 
