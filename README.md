@@ -128,6 +128,13 @@ Dans ma démarche d'amélioration continue et d'apprentissage, mon objectif est 
 
 ## Authentification et signature cryptographiques / identité numérique
 
+### Clé PGP principale
+> 🔐 **Digital identity of Tasko-691.**
+- **Adresse associée** : tasko691@disroot.org
+- **Empreinte** : A7CE 6D91 7E49 5CB7 0EC2 A464 78BD 5E72 5EE8 01B4
+- **Téléchargement** (`.asc`) : [`tasko691_public.asc`](./src/pgp/tasko691-public.asc)
+- **Format** : OpenPGP (ASCII armored)
+
 ## Contact
 
 > Je suis ouvert aux échanges, aux conseils comme aux critiques constructives, avec une volonté affirmée d’apprendre et d’évoluer
