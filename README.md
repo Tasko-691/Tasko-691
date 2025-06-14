@@ -72,7 +72,7 @@ L'approche commence souvent par la documentation, posée comme fondement avant m
 | Carte graphique  | NVIDIA GeForce RTX 3050                    |
 | Stockage         | Crucial P3 Plus 4To (CT4000P3PSSD801)      |
 
-## Pourquoi Arch Linux ?
+## Pourquoi Arch Linux
 
 Arch a été retenue pour sa clarté structurelle, sa cohérence technique et son approche minimaliste. Chaque composant remplit une fonction précise, sans surcouches ni abstractions inutiles.
 
