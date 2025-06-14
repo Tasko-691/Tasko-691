@@ -16,6 +16,8 @@
 - [Langages utilisés](#langages-utilisés)
 - [Philosophie open-source](#philosophie-open-source)
 - [Statistiques GitHub](#statistiques-github)
+- [Authentification et signature cryptographiques / identité numérique](#authentification-et-signature-cryptographiques--identité-numérique)
+  - [Clé PGP principale](#clé-pgp-principale)
 - [Contact](#contact)
 
 ## À propos
