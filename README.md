@@ -126,7 +126,7 @@ Dans ma démarche d'amélioration continue et d'apprentissage, mon objectif est 
 
 ## Explorations et curiosités techniques personnelles
 
->**Cette section regroupe des domaines explorés par curiosité et intérêt personnel, sans prétention de maîtrise, avec un attrait marqué pour leur fonctionnement et leurs mécanismes internes.**
+>**Explorés par curiosité, ces domaines ne prétendent pas à une maîtrise complète, mais témoignent d’un intérêt marqué pour leur fonctionnement interne et leurs logiques sous-jacentes.**
 
 ## Statistiques GitHub
 
