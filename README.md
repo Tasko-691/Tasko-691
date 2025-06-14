@@ -4,7 +4,7 @@
 
 # Profil Technique Public - Tasko (TSK)
 
-## 📝 À propos
+## À propos
 
 ```markdown
 > Le système parfait est celui qu'on façonne soi-même.
@@ -107,12 +107,12 @@ Je suis fermement attaché aux valeurs véhiculées par l'open-source : transpar
 
 Dans ma démarche d'amélioration continue et d'apprentissage, mon objectif est d'acquérir une expertise technique suffisamment solide pour contribuer activement à la communauté open-source. À terme, je souhaite participer à des projets existants ou en créer de nouveaux, non dans une logique quantitative, mais afin d'y intégrer ma vision stricte et explicite en matière de sécurité, de contrôle rigoureux et de gestion fiable des systèmes. Cet engagement répond directement à une volonté concrète : fournir des solutions techniques pertinentes, robustes et durables, répondant objectivement à des besoins réels dans l'intérêt général.
 
-## 📊 Statistiques GitHub
+## Statistiques GitHub
 
 ![Statistiques de Tasko](https://github-readme-stats.vercel.app/api?username=Tasko-691&show_icons=true&theme=shadow_red&include_all_commits=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tasko-691&theme=shadow_red&include_all_commits=true)
 
-## 🌐 Contact
+## Contact
 
 > Je suis ouvert aux échanges, aux conseils comme aux critiques constructives, avec une volonté affirmée d’apprendre et d’évoluer
 
