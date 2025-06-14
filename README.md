@@ -4,6 +4,20 @@
 
 # Profil Technique Public - Tasko (TSK)
 
+## Sommaire
+- [À propos](#à-propos)
+- [Vision technique personnelle](#vision-technique-personnelle)
+- [Approche d'apprentissage et transversalité technique](#approche-dapprentissage-et-transversalité-technique)
+- [Méthodologie technique](#méthodologie-technique)
+- [Configuration matérielle et logicielle](#configuration-matérielle-et-logicielle)
+  - [Composants logiciels](#composants-logiciels)
+  - [Composants matériels](#composants-matériels)
+- [Pourquoi Arch Linux](#pourquoi-arch-linux)
+- [Langages utilisés](#langages-utilisés)
+- [Philosophie open-source](#philosophie-open-source)
+- [Statistiques GitHub](#statistiques-github)
+- [Contact](#contact)
+
 ## À propos
 
 ```markdown
