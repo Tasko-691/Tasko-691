@@ -128,6 +128,34 @@ Dans ma démarche d'amélioration continue et d'apprentissage, mon objectif est 
 
 >**Explorés par curiosité, ces domaines ne prétendent pas à une maîtrise complète, mais témoignent d’un intérêt marqué pour leur fonctionnement interne et leurs logiques sous-jacentes.**
 
+<details>
+<summary><strong>Langages de programmation</strong></summary>
+
+
+
+</details>
+
+<details>
+<summary><strong>Sécurité des systèmes et cryptographie appliquée</strong></summary>
+
+
+
+</details>
+
+<details>
+<summary><strong>Systèmes embarqués et protocoles spécialisés</strong></summary>
+
+
+
+</details>
+
+<details>
+<summary><strong>Champs d’intérêt technique non catégorisés</strong></summary>
+
+
+
+</details>
+
 ## Statistiques GitHub
 
 ![Statistiques de Tasko](https://github-readme-stats.vercel.app/api?username=Tasko-691&show_icons=true&theme=shadow_red&include_all_commits=true)
