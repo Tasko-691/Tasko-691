@@ -126,6 +126,8 @@ Dans ma démarche d'amélioration continue et d'apprentissage, mon objectif est 
 ![Statistiques de Tasko](https://github-readme-stats.vercel.app/api?username=Tasko-691&show_icons=true&theme=shadow_red&include_all_commits=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tasko-691&theme=shadow_red&include_all_commits=true)
 
+## Authentification et signature cryptographiques / identité numérique
+
 ## Contact
 
 > Je suis ouvert aux échanges, aux conseils comme aux critiques constructives, avec une volonté affirmée d’apprendre et d’évoluer
