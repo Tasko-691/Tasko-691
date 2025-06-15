@@ -138,7 +138,8 @@ Dans ma démarche d'amélioration continue et d'apprentissage, mon objectif est 
 <details>
 <summary><strong>Sécurité des systèmes et cryptographie appliquée</strong></summary>
 
-
+>- **HSM (Hardware Security Modules)** : J’ai exploré les mécanismes de sécurité appliquée liés aux HSM, notamment leur capacité à garantir l’intégrité et la protection des clés cryptographiques stockées. Ce qui m’intéresse particulièrement, ce sont les contre-mesures physiques intégrées à ces dispositifs, destinées à détecter toute tentative d’altération matérielle.
+J’ai étudié différentes formes de maillages de sécurité (actifs, passifs, optiques, etc.) qui, selon leur nature, permettent soit de détecter une intrusion, soit d’y réagir (effacement, verrouillage, etc.). Ces maillages ne constituent qu’une couche de défense parmi d’autres, mais ils illustrent bien la logique de sécurité embarquée, que je trouve fascinante.
 
 </details>
 
