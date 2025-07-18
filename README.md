@@ -129,6 +129,7 @@ Dans ma démarche d'amélioration continue et d'apprentissage, mon objectif est 
 
 >- **Fortran** : Langage exploré par passion, sans apprentissage formel, apprécié pour sa logique déclarative, son organisation syntaxique claire et son approche impérative.
 
+>- **Prolog** : En apprentissage actif, apprécié pour son paradigme logique déclaratif et sa méthodologie structurée fondée sur la définition explicite de règles logiques. Intérêt axé sur la conception de structures logiques capables d’anticiper, raisonner et réagir de manière dynamique à des situations techniques complexes, à partir d’ensembles de faits, de contraintes et de variables évolutives.
 
 </details>
 
