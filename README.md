@@ -99,12 +99,10 @@ L’ensemble forme un socle stable, modulaire et maîtrisable, où chaque choix 
 
 ## Langages utilisés
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Prolog](https://img.shields.io/badge/Prolog-D90429?style=for-the-badge&logoColor=white)
 
 >- **Rust** : En apprentissage continu, apprécié pour sa sécurité intrinsèque, son efficacité en bas niveau, et sa capacité à remplacer avantageusement le C. Fort attrait pour sa philosophie, sa syntaxe claire et sa vision technique globale. Objectif de maîtrise complète afin de l'adopter systématiquement comme langage principal dans les futurs développements.
 
