@@ -15,7 +15,7 @@
 - [Pourquoi Arch Linux](#pourquoi-arch-linux)
 - [Langages utilisés](#langages-utilisés)
 - [Philosophie open-source](#philosophie-open-source)
-- [Explorations et curiosités techniques personnelles](#explorations-et-curiosités-techniques)
+- [Explorations et curiosités techniques](#explorations-et-curiosités-techniques)
 - [Statistiques GitHub](#statistiques-github)
 - [Authentification et signature cryptographiques / identité numérique](#authentification-et-signature-cryptographiques--identité-numérique)
   - [Clé PGP principale](#clé-pgp-principale)
