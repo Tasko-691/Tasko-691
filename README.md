@@ -131,6 +131,8 @@ Dans ma démarche d'amélioration continue et d'apprentissage, mon objectif est 
 
 >- **Prolog** : En apprentissage actif, apprécié pour son paradigme logique déclaratif et sa méthodologie structurée fondée sur la définition explicite de règles logiques. Intérêt axé sur la conception de structures logiques capables d’anticiper, raisonner et réagir de manière dynamique à des situations techniques complexes, à partir d’ensembles de faits, de contraintes et de variables évolutives.
 
+>- **Go** : Langage brièvement utilisé sans apprentissage formel, mais fortement apprécié pour sa portabilité, sa simplicité de déploiement et son modèle de concurrence intégré. Présente un fort potentiel pour des projets futurs nécessitant des exécutables multiplateformes efficaces et faciles à distribuer.
+
 </details>
 
 <details>
