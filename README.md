@@ -127,6 +127,7 @@ Dans ma démarche d'amélioration continue et d'apprentissage, mon objectif est 
 <details>
 <summary><strong>Langages de programmation</strong></summary>
 
+>- **Fortran** : Langage exploré par passion, sans apprentissage formel, apprécié pour sa logique déclarative, son organisation syntaxique claire et son approche impérative.
 
 
 </details>
