@@ -76,7 +76,7 @@ L'approche commence souvent par la documentation, posée comme fondement avant m
 | Noyau                  | Linux Zen                                |
 | Shell                  | Zsh                                      |
 | Terminal               | WezTerm                                  |
-| Environnement graphique| KDE Plasma (X11)                         |
+| Environnement graphique| KDE Plasma (Wayland)                     |
 | Éditeurs               | Kate, Vim, Neovim, VSCodium              |
 
 ### Composants matériels
