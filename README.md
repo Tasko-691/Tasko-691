@@ -84,8 +84,9 @@ L'approche commence souvent par la documentation, posée comme fondement avant m
 | Composant        | Détail                                     |
 |------------------|--------------------------------------------|
 | Carte mère       | Gigabyte Z590 GAMING X                     |
-| Processeur       | Intel Core i9-11900K (16 threads) @ 5.1 GHz|
+| Processeur       | Intel Core i5-10400F (12 threads) @ 4.3GHz |
 | Mémoire vive     | 32 Go DDR4                                 |
+| Carte graphique  | Radeon RX 7800 XT                          |
 | Carte graphique  | NVIDIA GeForce RTX 3050                    |
 | Stockage         | Crucial P3 Plus 4To (CT4000P3PSSD801)      |
 
